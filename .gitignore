@@ -1,0 +1,15 @@
+/.gradle/
+/local.properties
+**/build/
+*.jks
+*.keystore
+*.p12
+*.pem
+secrets/
+web/node_modules/
+web/dist/
+*.log
+.DS_Store
+
+/.kotlin/
+*.hprof
